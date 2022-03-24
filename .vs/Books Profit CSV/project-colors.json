@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "59b64d11-3ab4-4059-b0a5-ad8a052f2f4c": {
+      "ProjectGuid": "59b64d11-3ab4-4059-b0a5-ad8a052f2f4c",
+      "DisplayName": "Books Profit CSV",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

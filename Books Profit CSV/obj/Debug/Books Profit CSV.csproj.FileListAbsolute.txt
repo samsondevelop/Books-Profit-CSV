@@ -1,0 +1,11 @@
+C:\Users\samson\source\repos\Books Profit CSV\Books Profit CSV\bin\Debug\Books Profit CSV.exe.config
+C:\Users\samson\source\repos\Books Profit CSV\Books Profit CSV\bin\Debug\Books Profit CSV.exe
+C:\Users\samson\source\repos\Books Profit CSV\Books Profit CSV\bin\Debug\Books Profit CSV.pdb
+C:\Users\samson\source\repos\Books Profit CSV\Books Profit CSV\obj\Debug\Books Profit CSV.csproj.AssemblyReference.cache
+C:\Users\samson\source\repos\Books Profit CSV\Books Profit CSV\obj\Debug\Books Profit CSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\samson\source\repos\Books Profit CSV\Books Profit CSV\obj\Debug\Books_Profit_CSV.Form1.resources
+C:\Users\samson\source\repos\Books Profit CSV\Books Profit CSV\obj\Debug\Books_Profit_CSV.Properties.Resources.resources
+C:\Users\samson\source\repos\Books Profit CSV\Books Profit CSV\obj\Debug\Books Profit CSV.csproj.GenerateResource.cache
+C:\Users\samson\source\repos\Books Profit CSV\Books Profit CSV\obj\Debug\Books Profit CSV.csproj.CoreCompileInputs.cache
+C:\Users\samson\source\repos\Books Profit CSV\Books Profit CSV\obj\Debug\Books Profit CSV.exe
+C:\Users\samson\source\repos\Books Profit CSV\Books Profit CSV\obj\Debug\Books Profit CSV.pdb
